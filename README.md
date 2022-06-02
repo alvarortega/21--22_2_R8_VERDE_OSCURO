@@ -14,7 +14,7 @@ Dash
 Desarrollo_de_proyecto
 --
 -Algoritmos
----
+-------
 Scripts referentes a un un modelado por los diferentes tipos de rigidez
 
 Libreria con las funciones desarrolladas necesitadas para obtener los resultados del algoritmo
