@@ -26,6 +26,7 @@ Las diferentes tecnicas utilizadas para poder obtener los datos en la forma en l
 SQL
 
 Creacion e indexación de los datos
+
 Variedad de consultas para obtener datos de los datasets proporcionados
 
 Visualización
