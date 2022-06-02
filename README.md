@@ -13,17 +13,17 @@ Dash
 
 Desarrollo_de_proyecto
 --
--Algoritmos
---Scripts referentes a un un modelado por los diferentes tipos de rigidez
---Libreria con las funciones desarrolladas necesitadas para obtener los resultados del algoritmo
---El algoritmo evolutivo
+Algoritmos
+-Scripts referentes a un un modelado por los diferentes tipos de rigidez
+-Libreria con las funciones desarrolladas necesitadas para obtener los resultados del algoritmo
+-El algoritmo evolutivo
 
--Procesamiento_datos
---Las diferentes tecnicas utilizadas para poder obtener los datos en la forma en la cual nos resulte optima utilizarlos
+Procesamiento_datos
+-Las diferentes tecnicas utilizadas para poder obtener los datos en la forma en la cual nos resulte optima utilizarlos
 
--SQL
---Creacion e indexación de los datos
---Variedad de consultas para obtener datos de los datasets proporcionados
+SQL
+-Creacion e indexación de los datos
+-Variedad de consultas para obtener datos de los datasets proporcionados
 
--Visualización
---Diferentes graficos descriptivos los cuales nos dan un entendimiento mas profundo de los datos obtenidos
+Visualización
+-Diferentes graficos descriptivos los cuales nos dan un entendimiento mas profundo de los datos obtenidos
